@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<h1 align="center">Simple Redux Store</h1>
-<h4 align="center">Vanilla TypeScript example of a Redux Store</h4>
-
----
 
 <a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banners/ua-github.svg"></a>
 
