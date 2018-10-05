@@ -50,6 +50,3 @@ npm start
 
 Visit [localhost:8000](localhost:8000) in your browser.
 =======
-# ngrxTodo
-ngrx todo
->>>>>>> addc5027db7cfcbced71c2b385d7d1e734f747de
