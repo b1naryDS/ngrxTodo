@@ -23,9 +23,7 @@ button.addEventListener(
     store.dispatch({
       type: 'ADD_TODO',
       payload
-    })
-
-    console.log(store.value);
+    });
 
     input.value = '';
   },
