@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Simple Redux Store</h1>
 <h4 align="center">Vanilla TypeScript example of a Redux Store</h4>
 
@@ -48,3 +49,7 @@ npm start
 ```
 
 Visit [localhost:8000](localhost:8000) in your browser.
+=======
+# ngrxTodo
+ngrx todo
+>>>>>>> addc5027db7cfcbced71c2b385d7d1e734f747de
